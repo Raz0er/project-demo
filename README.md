@@ -1,2 +1,2 @@
 # project-demo
-#"Demonstracja zarządzania projektem na GitHub"@
+#"Demonstracja zarządzania projektem na GitHub"#
